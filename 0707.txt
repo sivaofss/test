@@ -9,3 +9,5 @@ git pull
 git tag
 
 git stash
+
+git merge
