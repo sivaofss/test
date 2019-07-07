@@ -2,16 +2,8 @@ git add
 
 git commit
 
-git push
+git  tag
 
-git pull
-
-git tag
-
-git stash
-
-
-git diff
-
-git merge
+git  log
+git clone
 
