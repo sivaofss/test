@@ -10,4 +10,8 @@ git tag
 
 git stash
 
+<<<<<<< HEAD
 git diff
+=======
+git merge
+>>>>>>> 9d493bddddadb74c69e411b6b414a242457aa803
